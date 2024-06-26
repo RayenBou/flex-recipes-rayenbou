@@ -1,0 +1,12 @@
+{
+  "recipes": {
+    "rayenbou/ticket-bundle": ["1.0"]
+  },
+  "branch": "main",
+  "is_contrib": false,
+  "_links": {
+    "repository": "github.com/RayenBou/flex-recipes-rayenbou",
+    "origin_template": "{package}:{version}@github.com/RayenBou/flex-recipes-rayenbou:main",
+    "recipe_template": "https://api.github.com/repos/RayenBou/flex-recipes-rayenbou/contents/{package_dotted}.{version}.json"
+  }
+}
