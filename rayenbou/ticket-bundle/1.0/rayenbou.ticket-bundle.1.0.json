@@ -12,8 +12,7 @@
           "RAYENBOU_TICKET_URL": "",
           "RAYENBOU_TICKET_USERNAME": "",
           "RAYENBOU_TICKET_PASSWORD": ""
-        },
-        "gitignore": ["/config/packages/rayenbou_ticket.yaml", "/.env.local"]
+        }
       },
       "ref": "aad3ca9dcb60e871fe764cc18edda5f288507b3a"
     }
