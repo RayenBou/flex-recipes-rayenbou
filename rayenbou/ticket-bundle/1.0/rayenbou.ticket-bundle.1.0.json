@@ -1,0 +1,20 @@
+{
+  "manifests": {
+    "rayenbou/ticket-bundle": {
+      "manifest": {
+        "bundles": {
+          "RayenBou\\TicketBundle\\RayenBouTicketBundle": ["all"]
+        },
+        "copy-from-recipe": {
+          "config/": "%CONFIG_DIR%/"
+        },
+        "env": {
+          "RAYENBOU_TICKET_URL": "",
+          "RAYENBOU_TICKET_USERNAME": "",
+          "RAYENBOU_TICKET_PASSWORD": ""
+        }
+      },
+      "ref": "aad3ca9dcb60e871fe764cc18edda5f288507b3a"
+    }
+  }
+}
