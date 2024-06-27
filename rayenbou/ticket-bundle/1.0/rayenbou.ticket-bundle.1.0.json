@@ -12,7 +12,7 @@
       "files": {
         "config/packages/rayenbou_ticket.yaml": {
           "contents": [
-            "rayen_bou_ticket:",
+            "rayenbou_ticket:",
             "  authentication:",
             "    url: '%env(resolve:RAYENBOU_TICKET_URL)%'",
             "    username: '%env(resolve:RAYENBOU_TICKET_USERNAME)%'",
@@ -26,7 +26,7 @@
         "config/routes/rayenbou_ticket.yaml": {
           "contents": [
             "rayenbou_ticket:",
-            "    resource: \"@RayenBouTicketBundle/config/routing.yaml\"",
+            "    resource: \"@RayenbouTicketBundle/config/routing.yaml\"",
             ""
           ],
           "executable": false

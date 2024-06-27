@@ -3,7 +3,7 @@
     "rayenbou/ticket-bundle": ["1.0"]
   },
   "branch": "main",
-  "is_contrib": false,
+  "is_contrib": true,
   "_links": {
     "repository": "github.com/RayenBou/flex-recipes-rayenbou",
     "origin_template": "{package}:{version}@github.com/RayenBou/flex-recipes-rayenbou:main",
