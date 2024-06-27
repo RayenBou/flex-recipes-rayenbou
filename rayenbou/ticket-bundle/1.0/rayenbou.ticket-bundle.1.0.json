@@ -2,11 +2,11 @@
   "manifests": {
     "rayenbou/ticket-bundle": {
       "manifest": {
-        "bundles": {
-          "RayenBou\\TicketBundle\\RayenBouTicketBundle": ["all"]
-        },
         "copy-from-recipe": {
           "config/": "%CONFIG_DIR%"
+        },
+        "bundles": {
+          "RayenBou\\TicketBundle\\RayenBouTicketBundle": ["all"]
         }
       },
       "files": {
@@ -32,6 +32,7 @@
           "executable": false
         }
       },
+
       "ref": "aad3ca9dcb60e871fe764cc18edda5f288507b3a"
     }
   }
