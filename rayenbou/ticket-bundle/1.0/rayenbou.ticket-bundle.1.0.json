@@ -6,7 +6,7 @@
           "config/": "%CONFIG_DIR%"
         },
         "bundles": {
-          "RayenBou\\TicketBundle\\RayenBouTicketBundle": ["all"]
+          "RayenBou\\TicketBundle\\RayenbouTicketBundle": ["all"]
         }
       },
       "files": {
