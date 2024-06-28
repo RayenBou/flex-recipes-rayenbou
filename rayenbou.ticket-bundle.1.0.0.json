@@ -1,6 +1,7 @@
 {
   "manifests": {
     "rayenbou/ticket-bundle": {
+      "aliases": ["rayenbou-ticket", "rayenbou-ticket-bundle"],
       "manifest": {
         "bundles": {
           "RayenBou\\TicketBundle\\RayenbouTicketBundle": ["all"]
