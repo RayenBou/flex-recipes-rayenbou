@@ -1,6 +1,6 @@
 {
   "recipes": {
-    "rayenbou/ticket-bundle": ["1.0"]
+    "rayenbou/ticket-bundle": ["1.0.0"]
   },
   "branch": "main",
   "is_contrib": true,
